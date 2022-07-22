@@ -1,2 +1,1 @@
-# FindYourDog
-css and bootstrap
+TinDog Starting Files
